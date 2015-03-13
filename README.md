@@ -6,6 +6,6 @@ Code that is used to find:
 
 as function of the lattice size, temperature for the fermionic Hubbard model on the square and Lieb lattices.
 
-#Testing
+### Testing
 Unit tests require Google testing library compiled.
 
